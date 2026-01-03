@@ -4,7 +4,7 @@ import json
 import pandas as pd
 import os
 
-app = Flask(__name__)
+app = Flask(__name__, static_url_path="/static")
 
 # Base directory (important for Vercel)
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
