@@ -16,10 +16,11 @@ A web application to predict house prices in Bangalore, marking the start of my 
 
 ---
 
+
 ## 🖼 Screenshot
 
-![App Screenshot](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1120f1ef-1052-4680-8546-60de9aa9453d" />
-)
+![App Screenshot](https://github.com/user-attachments/assets/1120f1ef-1052-4680-8546-60de9aa9453d)
+
 
 ---
 
