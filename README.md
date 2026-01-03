@@ -12,7 +12,7 @@ A web application to predict house prices in Bangalore, marking the start of my 
 ---
 
 ## 🔗 Live Demo
-[**Try the app here**](https://bangaluru-house-price-predict-1.onrender.com/predict)
+[**Try the app here**](https://bangaluru-house-price-predict-1.onrender.com/)
 
 ---
 
