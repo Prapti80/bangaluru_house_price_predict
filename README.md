@@ -11,7 +11,7 @@ A web application to predict house prices in Bangalore, marking the start of my 
 
 
 ## 🔗 Live Demo
-[**Try the app here**](https://bangaluru-house-price-predict-1.onrender.com/)
+https://bangaluru-house-price-predict-1.onrender.com/
 ⏳ **Note:**  
 This app is hosted on Render (Free Tier).  
 Please wait **30–60 seconds** on first load as the server may take time to start.
