@@ -35,9 +35,13 @@ Please wait **30–60 seconds** on first load as the server may take time to sta
 ## ⚙️ Run Locally
 
 git clone https://github.com/Prapti80/bangaluru_house_price_predict.git
+
 cd bangaluru_house_price_predict
+
 pip install -r requirements.txt
+
 python app.py
+
 Open http://localhost:5000/predict in your browser.
 
 💡 My ML Journey
